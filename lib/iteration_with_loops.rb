@@ -7,6 +7,6 @@ def find_even_values(array_of_arrays)
       p array_of_arrays[row_index][element_index]
     else element_index += 1
     end
-  end
 row_index += 1
+  end
 end
